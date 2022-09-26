@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamkenny-dev
-- 👀 I’m interested in Software Development and Data Science
+- 👀 I’m interested in Software Development and Blockchain
 - 🌱 I’m currently learning Software Development at ALX
 - 💞️ I’m looking to collaborate on web development projects
 - 💞️ I'm currrently learning ReactJs and building side projects.
