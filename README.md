@@ -6,9 +6,9 @@
 ## About Me
 * 👋 Hi, I am Kenny
 * 👀 I’m interested in Software Development, Open Source, Ai and Blockchain
-* 🌱 I’m currently learning Software Development at ALX
-* 💞️ I’m looking to collaborate on web development projects
-* 💞️ I'm currrently learning ReactJs, Expressjs, NodeJs, MongoDb and building side projects.
+* 🌱 
+* 💞️ I’m looking to collaborate on software development projects
+* 💞️ I'm currrently building side projects with ReactJs, Expressjs, NodeJs, MongoDb.
 * 📫 How to reach me? @iamkenny_co on twitter
 ## Tech Stack
 
