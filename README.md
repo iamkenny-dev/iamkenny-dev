@@ -12,7 +12,7 @@
 * 📫 How to reach me? @iamkenny_co on twitter
 ## Tech Stack
 
-**FrontEnd:** Javascript, React, Reactative, Redux, TailwindCSS
+**FrontEnd:** Javascript, React, ReactNative, Redux, TailwindCSS
 
 **BackEnd:** Node, Express, MongoDB, MySQL
 
